@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 200px;
+  height: auto;
+  background-color: rgba(120, 140, 188, 0.4);
+  color: rgba(55, 195, 88, 3);
+}
